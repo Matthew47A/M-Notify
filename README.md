@@ -46,6 +46,6 @@ TriggerClientEvent('m-Notify:Alert', source, "Title", "Message", Time, 'type')
 ---
 
 👨‍💻 Developer Matthew :
-📧 Email: aensnassan@gmail.com
+📧 Email: anesnassan@gmail.com
 
 🔗 GitHub: Matthew47A
