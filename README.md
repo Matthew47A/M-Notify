@@ -13,7 +13,6 @@ Designed with a clean **FiveM-style UI**, smooth animations, and easy integratio
 🔊 Sound system per notification  
 ⚡ Smooth animations & progress bar  
 🔢 Notification grouping system  
-🧩 Standalone (ESX / QBCore compatible)  
 🚀 Plug & Play – no database required  
 
 ---
@@ -33,16 +32,16 @@ TriggerClientEvent('m-Notify:Alert', source, "Title", "Message", Time, 'type')
 
 > Matthew Notify Preview
 
-```md
+
 <p align="center">
-  <img src="https://i.postimg.cc/d3FVx67L/Matthew-Light-Mode.png" width="90%">
+  <img src="https://i.postimg.cc/d3FVx67L/Matthew-Light-Mode.png" width="40%">
   <br><br>
-  <img src="https://i.postimg.cc/Znm5MH9W/Matthew-Dark-Mode.png" width="90%">
+  <img src="https://i.postimg.cc/Znm5MH9W/Matthew-Dark-Mode.png" width="40%">
   <br><br>
-  <img src="https://i.postimg.cc/d1r06p0d/Matthew-Color-Ful.png" width="90%">
+  <img src="https://i.postimg.cc/d1r06p0d/Matthew-Color-Ful.png" width="40%">
 </p>
 
-```
+
 
 ---
 
